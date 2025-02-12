@@ -1,9 +1,6 @@
 
-.odd-number{
-    background-color: #ffc0cb;
-    font-family: Verdana, sans-serif; 
-}
 
+/* even numbers id */
 #number-2{
 color:#0000ff;
 font-size: 36px;
@@ -14,3 +11,13 @@ font-size: 36px;
     font-size: 24px;
     font-weight: bold;
     }
+
+/* odd numbers class */
+p{
+    background-color: #ffc0cb;
+    font-family: Verdana, sans-serif; 
+ }
+/* odd number 3 gets specific font size*/
+ .odd-number-3{
+    font-size: 24px;
+ }
