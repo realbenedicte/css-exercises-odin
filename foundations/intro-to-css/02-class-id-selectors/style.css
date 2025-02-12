@@ -13,7 +13,7 @@ font-size: 36px;
     }
 
 /* odd numbers class */
-p{
+.odd{
     background-color: #ffc0cb;
     font-family: Verdana, sans-serif; 
  }
