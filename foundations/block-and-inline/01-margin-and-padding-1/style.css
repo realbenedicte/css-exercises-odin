@@ -25,4 +25,6 @@ body {
   /* CHANGE ME */
   padding: 32px;
   margin-left: auto; 
+  /* When you set margin-left: auto;, 
+  the left margin expands as much as possible, pushing the element to the right. */
 }
